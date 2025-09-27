@@ -1,0 +1,1 @@
+t = int(input()) for _ in range(t):    n = int(input())     arr = list(map(int, input().split()))     res = set()     res.add(arr[0])     for i in range(1, n):        if (arr[i] + 1 in res) or (arr[i] - 1 in res):             res.add(arr[i])                    else:            print("NO")            break    else:        print("YES")
