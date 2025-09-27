@@ -1,0 +1,1 @@
+t = int(input()) for _ in range(t):    n = int(input())     res = ""     s = input()     i = 0    j = 1     while i < n and j < n:        if s[i] == s[j]:            res = res + s[i]            i = j + 1            j = j + 2         else:            j += 1     print(res)
