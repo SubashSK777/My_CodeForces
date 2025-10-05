@@ -1,0 +1,1 @@
+t = int(input()) for _ in range(t):    n = int(input())     arr = list(map(int, input().split()))     tot = 0     cnt = 0     open = False     for i in arr:        tot += abs(i)         if i < 0 and not open:            open = True            cnt += 1         if i > 0:            open = False     print(tot, cnt)
