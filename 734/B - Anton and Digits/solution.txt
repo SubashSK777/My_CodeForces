@@ -1,0 +1,1 @@
+two, three, five, six = map(int, input().split()) dh = min(two, five, six) two -= dh bh = min(three, two)  tot = 0 if dh > 0:    tot += 256 * dh if bh > 0:    tot += 32 * bh print(tot)
