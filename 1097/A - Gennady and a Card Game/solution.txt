@@ -1,0 +1,1 @@
+s = input()arr = input()for i in s:    if i in arr:        print("YES")        breakelse:    print("NO")
