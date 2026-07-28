@@ -1,0 +1,10 @@
+_ = int(input())
+ 
+for __ in range(_):
+    a, b = map(int, input().split())
+ 
+    if a % b == 0:
+        print(a % b)
+ 
+    else:
+        print(b - (a % b))
