@@ -6,14 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 2 |
+| 3 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [brute force](#brute-force) (1)
-- [math](#math) (2)
+- [greedy](#greedy) (1)
+- [math](#math) (3)
 
 ---
 
@@ -23,11 +24,18 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Python 3](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/4/A%20-%20Watermelon/solution.py) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.txt) |
 
 ---
