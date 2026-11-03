@@ -6,21 +6,52 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (2)
 
 ---
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+| 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/705/A%20-%20Hulk/solution.txt) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
 ---
 
