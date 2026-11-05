@@ -1,0 +1,18 @@
+s = input()
+ 
+stash = ['h', 'e', 'l', 'l', 'o']
+ 
+j = 0
+ 
+ 
+for letter in s:
+    if letter == stash[j]:
+        j += 1 
+ 
+    if j == 5:
+        break
+ 
+if j == 5:
+    print("YES")
+else:
+    print("NO")
