@@ -1,0 +1,5 @@
+it = int(input())
+ 
+for _ in range(it):
+    n = int(input())
+    print(n * n // 4)
