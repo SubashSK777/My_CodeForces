@@ -1,3 +1,5 @@
 l, b = map(int, input().split())
  
-print((l * b) // 2)
+area = l * b
+ 
+print(area // 2)
