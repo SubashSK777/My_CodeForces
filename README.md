@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 8 |
 
 ---
 
@@ -14,9 +14,9 @@
 
 - [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (3)
-- [math](#math) (1)
+- [math](#math) (2)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
@@ -39,6 +39,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 58A | [Chat room](https://codeforces.com/contest/58/problem/A) | 1000 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/58/A%20-%20Chat%20room/solution.txt) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.txt) |
 
@@ -54,6 +55,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
 
 ### number theory
