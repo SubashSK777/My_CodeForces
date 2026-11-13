@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 8 |
+| 9 | 8 |
 
 ---
 
@@ -16,8 +16,8 @@
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (3)
-- [math](#math) (2)
-- [number theory](#number-theory) (1)
+- [math](#math) (3)
+- [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
@@ -57,12 +57,14 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.txt) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.txt) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/122/A%20-%20Lucky%20Division/solution.txt) |
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [PyPy 3-64](https://github.com/SubashSK777/My_CodeForces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.txt) |
 
 ### sortings
 
